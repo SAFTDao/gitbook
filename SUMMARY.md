@@ -1,3 +1,3 @@
 # Table of contents
 
-* [SAFTDao Whitepaper](README.md)
+* [SAFTDao: Simplifying the creation, execution and operational management of SAFTs](README.md)
